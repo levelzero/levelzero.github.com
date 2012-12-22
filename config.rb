@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/home/maxim/saibot/octopress/public/"
+http_images_path = "/home/maxim/saibot/octopress/public/images"
+http_fonts_path = "/home/maxim/saibot/octopress/public/fonts"
+css_dir = "public/home/maxim/saibot/octopress/public/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
